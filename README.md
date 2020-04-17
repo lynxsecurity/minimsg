@@ -1,3 +1,3 @@
 minimsg
 ===
-a miniature amqp consumer / publisher written in golang
+a miniature AMQP consumer / publisher written in golang
